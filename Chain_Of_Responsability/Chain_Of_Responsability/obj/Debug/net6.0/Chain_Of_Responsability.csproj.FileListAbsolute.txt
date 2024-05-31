@@ -1,0 +1,28 @@
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.exe
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.deps.json
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.runtimeconfig.json
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.pdb
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\refint\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.pdb
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\5ª Semana\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\ref\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.exe
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.deps.json
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.runtimeconfig.json
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\bin\Debug\net6.0\Chain_Of_Responsability.pdb
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\refint\Chain_Of_Responsability.dll
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.pdb
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\Chain_Of_Responsability.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\TRABALHOS\Apresentação_Chain_Of_Responsability\Chain_Of_Responsability\Chain_Of_Responsability\obj\Debug\net6.0\ref\Chain_Of_Responsability.dll
